@@ -1,0 +1,13 @@
+/*personal styling variables*/
+:root {
+    --main-font: 'Montserrat', sans-serif;
+    --secondary-font: 'Work Sans', sans-serif;
+    --primary-color: gray;
+    --secondary-color: blue;
+}
+h1, h2, h3, h4, h5 {
+    font-family: var(--main-font);
+ }
+ p, a, span, button {
+    font-family: var(--secondary-font);
+ }
